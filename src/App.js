@@ -1,5 +1,4 @@
 import './App.css';
-import Product from './Product';
 
 function App() {
   const myName = 'abhishek';
@@ -9,7 +8,6 @@ function App() {
     <div className="App">
 
       <h2>inside app </h2>
-      <Product />
     </div>
   );
 }
